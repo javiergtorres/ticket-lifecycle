@@ -165,7 +165,7 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 </p>
 
 <p>
-  Now I'll reassign the ticket to Jane.
+  Now I'll reassign the ticket to Jane. I'll click "John Doe" next to '"Assigned to" change it to "Jane Doe", then click "Assign".
 </p>
 
 <p>
