@@ -55,6 +55,6 @@ The software I'm using on my laptop is Garuda Linux. Here you can see I'm using 
 
 </p>
 <p>
-Here you can see the portal screen for an End User
+Here you can see the portal screen for an End User. From here click "Open New Ticket".
 </p>
 <br />
