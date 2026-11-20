@@ -158,4 +158,22 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   It's worth noting that, for every change that's made to the ticket and every comment that's made, it's all there to see on the ticket and everyone who is tied to this ticket gets notifications as well.
 </p>
+
+<p>
+  <img width="1870" height="1042" alt="reassign-ticket-to-Jane-SysAdmin" src="https://github.com/user-attachments/assets/c620a8c8-3414-443d-a37c-fccb769cb5f6" />
+
+</p>
+
+<p>
+  Now I'll reassign the ticket to Jane.
+</p>
+
+<p>
+  <img width="1857" height="1035" alt="transferring-to-SysAdmin-dept" src="https://github.com/user-attachments/assets/ef73ec1f-832c-488c-8101-68f660d18a4d" />
+
+</p>
+
+<p>
+  I'll also transfer the ticket over to the SysAdmin Department. After that I shouldn't have access to the ticket, as John, due to permissions. 
+</p>
 <br />
