@@ -138,6 +138,6 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 </p>
 
 <p>
-  I'll also change the Help Topic from "General Inquiry" to "Business Critical Outage" which is a more appropriate help topic. 
+  I'll also change the Help Topic from "General Inquiry" to "Business Critical Outage" which is a more appropriate help topic. For that, next to "Help Topic", click "General Inquiry" then a pop up will appear. In the drop-down menu, I chose "Report a problem/business critical outage" and explained why. Then I clicked "Update".
 </p>
 <br />
