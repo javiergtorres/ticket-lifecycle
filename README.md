@@ -57,4 +57,13 @@ The software I'm using on my laptop is Garuda Linux. Here you can see I'm using 
 <p>
 Here you can see the portal screen for an End User. From here click "Open New Ticket".
 </p>
+
+<p>
+  <img width="1861" height="1038" alt="creating-ticket-as-Karen" src="https://github.com/user-attachments/assets/9253eb1b-6468-4f0c-8827-70adb6f2b837" />
+
+</p>
+
+<p>
+  As Karen, I'm filling out my info. Describing the issue as best as I can. After that I'll click "Create Ticket"
+</p>
 <br />
