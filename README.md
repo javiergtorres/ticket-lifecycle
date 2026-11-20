@@ -26,7 +26,7 @@ Create a couple of tickets using the User portal inside osTicket as an End User 
 
 After the ticket is created I’ll login as a Help Desk technician (IT person). I’ll observe the ticket, triage it, then work it to completion.
 
-<h2> Steps</h2>
+<h2> Login to Microsoft Azure, get Windows 11 virtual machine login information</h2>
 
 <p>
 <img width="1901" height="930" alt="gettingipaddressfrom-osticket-vm" src="https://github.com/user-attachments/assets/756917c3-13d3-4a5f-8eba-423c52387f46" />
