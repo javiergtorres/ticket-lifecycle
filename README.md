@@ -120,4 +120,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   Next to "Priority", it says "Normal". I clicked that so I can change the priority level to a more urgent level since the entire business system is down. I'll change it to "Emergency" and expalin why. Then I'll click "Update".
 </p>
+
+<p>
+  <img width="1859" height="1043" alt="changing-the-SLA-plan" src="https://github.com/user-attachments/assets/2b00adeb-c4a8-42d5-bd6b-ae5232e7a463" />
+
+</p>
+
+<p>
+  After that, I noticed the SLA plan hasn't been set. I'll set it to: Sev-A. The reason is because this is a business critical issue and needs to be resolved ASAP.
+</p>
 <br />
