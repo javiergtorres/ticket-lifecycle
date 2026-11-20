@@ -140,4 +140,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   I'll also change the Help Topic from "General Inquiry" to "Business Critical Outage" which is a more appropriate help topic. For that, next to "Help Topic", click "General Inquiry" then a pop up will appear. In the drop-down menu, I chose "Report a problem/business critical outage" and explained why. Then I clicked "Update".
 </p>
+
+<p>
+  <img width="1870" height="1041" alt="writing-comment-on-ticket" src="https://github.com/user-attachments/assets/b7b2f6ca-44f1-49f7-a93a-c4d76f01e9de" />
+
+</p>
+
+<p>
+  From here, I'll also add a comment saying that I'll pass this ticket along to the SysAdmin Department. The scenario is that I'm an entry level Help Desk technician, therefore would not be able to solve this issue and will forward it along to the correct department.
+</p>
 <br />
