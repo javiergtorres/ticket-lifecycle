@@ -127,6 +127,8 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 </p>
 
 <p>
-  After that, I noticed the SLA plan hasn't been set. I'll set it to: Sev-A. The reason is because this is a business critical issue and needs to be resolved ASAP.
+  After that, I noticed the SLA plan hasn't been set. I'll set it to: Sev-A. The reason is because this is a business critical issue and needs to be resolved ASAP. 
+
+  For this, next to "SLA Plan", it says "Default SLA". I'll click that, set the SLA Plan to Sev-A and explain why. Then I'll click "Update".
 </p>
 <br />
