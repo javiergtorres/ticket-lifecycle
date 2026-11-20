@@ -189,4 +189,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   Here I'm on the login portal screen for Admin/Agents. I'll login as Jane in the SysAdmin department.
 </p>
+
+<p>
+  <img width="1870" height="1041" alt="ticket-on-homepage-as-Jane" src="https://github.com/user-attachments/assets/61220b63-2dc1-4429-967f-7fe7d7e53a48" />
+
+</p>
+
+<p>
+  Here I can see the ticket on the homepage. I'll click it to open it and see what's going on.
+</p>
 <br />
