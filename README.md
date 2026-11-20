@@ -66,4 +66,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   As Karen, I'm filling out my info. Describing the issue as best as I can. After that I'll click "Create Ticket"
 </p>
+
+<p>
+  <img width="1867" height="1035" alt="Screenshot_20261119_210021" src="https://github.com/user-attachments/assets/335a0868-cf4a-470c-b248-b2ca91f83181" />
+
+</p>
+
+<p>
+  Ticket has been created.
+</p>
 <br />
