@@ -35,6 +35,8 @@ After the ticket is created I’ll login as a Help Desk technician (IT person). 
 <p>
 First thing, I created a Windows 11 virtual machine in Microsoft Azure. I'll need the public IP address, username, and password of the virtual machine so I can remote desktop in to the virtual machine. You can see the public IP address in the photo.
 </p>
+
+<h2>Using RDP (Remote Desktop Protocol) to connect to virtual machine</h2>
 <br />
 
 <p>
