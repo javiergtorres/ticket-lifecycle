@@ -118,6 +118,6 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 </p>
 
 <p>
-  Next to "Priority", it says "Normal". I clicked that so I can change the priority level to a more urgent level since the entire business system is down.
+  Next to "Priority", it says "Normal". I clicked that so I can change the priority level to a more urgent level since the entire business system is down. I'll change it to "Emergency" and expalin why. Then I'll click "Update".
 </p>
 <br />
