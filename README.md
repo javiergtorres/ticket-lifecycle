@@ -88,4 +88,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   From here, I'll login as John, a Help Desk technician, observe the ticket, and work it to completion
 </p>
+
+<p>
+  <img width="1860" height="1044" alt="osTicket-homescreen-forJohn" src="https://github.com/user-attachments/assets/2cbc72c5-bba0-47e9-8018-6fab68746c13" />
+
+</p>
+
+<p>
+  Here, on the home screen as John, I can see the ticket that Karen has created. I'll click it to open it and observe the ticket
+</p>
 <br />
