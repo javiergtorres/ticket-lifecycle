@@ -75,4 +75,17 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   Ticket has been created.
 </p>
+
+<h2>
+  Login as John (Help Desk Technician)
+</h2>
+
+<p>
+  <img width="1850" height="1041" alt="login-as-John(Agent)" src="https://github.com/user-attachments/assets/bf930edf-0c2d-4b94-a6ec-9fd302739fb9" />
+
+</p>
+
+<p>
+  From here, I'll login as John, a Help Desk technician, observe the ticket, and work it to completion
+</p>
 <br />
