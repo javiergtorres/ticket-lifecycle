@@ -48,10 +48,13 @@ The software I'm using on my laptop is Garuda Linux. Here you can see I'm using 
 </p>
 <br />
 
+<h2>Creating a ticket as an End User (Karen)</h2>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1826" height="1028" alt="end-user-loginscreen" src="https://github.com/user-attachments/assets/ae10a4af-2901-42a3-acbc-6537d143cf70" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here you can see the portal screen for an End User
 </p>
 <br />
