@@ -174,6 +174,6 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 </p>
 
 <p>
-  I'll also transfer the ticket over to the SysAdmin Department. After that I shouldn't have access to the ticket, as John, due to permissions. 
+  I'll also transfer the ticket over to the SysAdmin Department. Next to "Department" it says "Support". I'll click that, then change it to "SysAdmin". After that I shouldn't have access to the ticket, as John, due to permissions. 
 </p>
 <br />
