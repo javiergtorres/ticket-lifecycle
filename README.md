@@ -97,4 +97,14 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   Here, on the home screen as John, I can see the ticket that Karen has created. I'll click it to open it and observe the ticket
 </p>
+
+<p>
+  <img width="1868" height="1034" alt="observing-the-ticket-asJohn" src="https://github.com/user-attachments/assets/2e21b81c-f868-412b-bccf-c6ccdf4900a4" />
+
+</p>
+
+<p>
+  <img width="1863" height="1044" alt="observing-the-ticket-asJohn2" src="https://github.com/user-attachments/assets/8f1c8d94-a114-4e4c-80ac-b0c5371d3086" />
+
+</p>
 <br />
