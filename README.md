@@ -3,8 +3,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticket Lifecycle</h1>
+This tutorial outlines a ticket lifecycle from creation to completion on the ticketing system osTicket.<br />
 
 
 
