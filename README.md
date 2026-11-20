@@ -22,7 +22,7 @@ This tutorial outlines a ticket lifecycle from creation to completion on the tic
 
 <h2> Objective</h2>
 
-Create a couple of tickets using the User portal inside osTicket as an End User (I’ll pretend to be an End User with a problem).
+Create a ticket using the User portal inside osTicket as an End User (I’ll pretend to be an End User with a problem).
 
 After the ticket is created I’ll login as a Help Desk technician (IT person). I’ll observe the ticket, triage it, then work it to completion.
 
