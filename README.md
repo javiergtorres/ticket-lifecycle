@@ -212,4 +212,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   As Jane, I'm able to see who created the ticket, all the changes and comments that have been made.
 </p>
+
+<p>
+  <img width="1077" height="264" alt="Jane-leaving-comments-then-closing-ticket" src="https://github.com/user-attachments/assets/83227696-6182-4134-9fcb-9cbdf871519b" />
+
+</p>
+
+<p>
+  
+</p>
 <br />
