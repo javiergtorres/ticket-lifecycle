@@ -219,6 +219,6 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 </p>
 
 <p>
-  
+  For the sake of this example, the scenario is that something happened with the server. As Jane I checked the settings, then restarted the server.  After confirming that everything was back up and running, I reached out to Karen and confirmed everything was back up to speed. Once issue has been resolved, I will now close the ticket.
 </p>
 <br />
