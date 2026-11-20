@@ -107,4 +107,17 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
   <img width="1863" height="1044" alt="observing-the-ticket-asJohn2" src="https://github.com/user-attachments/assets/8f1c8d94-a114-4e4c-80ac-b0c5371d3086" />
 
 </p>
+
+<p>
+  From here, I contacted Karen, and verified what's going on and the severity of the issue. First thing I'll do is change the priority of the ticket.
+</p>
+
+<p>
+  <img width="1870" height="1046" alt="changing-priority-of-problem-on-ticket" src="https://github.com/user-attachments/assets/b4d0041e-6e30-4702-ad41-5a062a9de611" />
+
+</p>
+
+<p>
+  Next to "Priority", it says "Normal". I clicked that so I can change the priority level to a more urgent level since the entire business system is down.
+</p>
 <br />
