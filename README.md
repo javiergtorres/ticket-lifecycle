@@ -131,4 +131,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 
   For this, next to "SLA Plan", it says "Default SLA". I'll click that, set the SLA Plan to Sev-A and explain why. Then I'll click "Update".
 </p>
+
+<p>
+  <img width="1865" height="1042" alt="changed-the-help-topic" src="https://github.com/user-attachments/assets/0866e1c6-3453-4d4d-a4b2-d332734b35a5" />
+
+</p>
+
+<p>
+  I'll also change the Help Topic from "General Inquiry" to "Business Critical Outage" which is a more appropriate help topic. 
+</p>
 <br />
