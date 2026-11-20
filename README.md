@@ -18,7 +18,7 @@ This tutorial outlines a ticket lifecycle from creation to completion on the tic
 <h2>Operating Systems Used </h2>
 
 - Windows 11
-- Garuda Linux</b> (21H2)
+- Garuda Linux</b> 
 
 <h2>Post-Install Configuration Objectives</h2>
 
