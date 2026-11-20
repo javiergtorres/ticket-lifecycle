@@ -198,4 +198,18 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   Here I can see the ticket on the homepage. I'll click it to open it and see what's going on.
 </p>
+
+<p>
+  <img width="1872" height="1038" alt="jane-viewing-ticket" src="https://github.com/user-attachments/assets/6f1fc9bc-4740-4dda-a57c-7e35d5321f21" />
+
+</p>
+
+<p>
+  <img width="1885" height="1040" alt="jane-viewing-ticket2" src="https://github.com/user-attachments/assets/457b40ba-2713-4026-aba9-8bc26fe6815b" />
+
+</p>
+
+<p>
+  As Jane, I'm able to see who created the ticket, all the changes and comments that have been made.
+</p>
 <br />
