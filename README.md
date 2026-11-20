@@ -180,4 +180,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <h2>
   Logging in as Jane in the SysAdmin department
 </h2>
+
+<p>
+  <img width="1855" height="1033" alt="logging-in-as-Jane-SysAdmin" src="https://github.com/user-attachments/assets/a2d23c5f-1114-49d7-8414-ee0511a31a0e" />
+
+</p>
+
+<p>
+  Here I'm on the login portal screen for Admin/Agents. I'll login as Jane in the SysAdmin department.
+</p>
 <br />
