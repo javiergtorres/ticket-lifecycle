@@ -31,10 +31,11 @@ This tutorial outlines a ticket lifecycle from creation to completion on the tic
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1901" height="930" alt="gettingipaddressfrom-osticket-vm" src="https://github.com/user-attachments/assets/756917c3-13d3-4a5f-8eba-423c52387f46" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First thing, I created a Windows 11 virtual machine in Microsoft Azure. I'll need the public IP address, username, and password of the virtual machine so I can remote desktop in to the virtual machine. You can see the public IP address in the photo.
 </p>
 <br />
 
