@@ -228,6 +228,15 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 </p>
 
 <p>
-  From here, 
+  From here, next to "Status", it says "Open", I'll click that and change it to "Resolved". Then I'll click "Close" and the ticket will become resolved.
+</p>
+
+<p>
+  <img width="1271" height="437" alt="ticket-officially-resolved" src="https://github.com/user-attachments/assets/f5f69f00-9747-4be0-9f6e-e8d6f53ab093" />
+
+</p>
+
+<p>
+  Ticket has been resolved!
 </p>
 <br />
