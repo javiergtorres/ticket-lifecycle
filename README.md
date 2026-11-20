@@ -165,7 +165,7 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 </p>
 
 <p>
-  Now I'll reassign the ticket to Jane. I'll click "John Doe" next to '"Assigned to" change it to "Jane Doe", then click "Assign".
+  Now I'll reassign the ticket to Jane,who works in the SysAdmin department. I'll click "John Doe" next to '"Assigned to" change it to "Jane Doe", then click "Assign".
 </p>
 
 <p>
@@ -176,4 +176,8 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   I'll also transfer the ticket over to the SysAdmin Department. Next to "Department" it says "Support". I'll click that, then change it to "SysAdmin". After that I shouldn't have access to the ticket, as John, due to permissions. 
 </p>
+
+<h2>
+  Logging in as Jane in the SysAdmin department
+</h2>
 <br />
