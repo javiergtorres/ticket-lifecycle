@@ -149,4 +149,13 @@ Here you can see the portal screen for an End User. From here click "Open New Ti
 <p>
   From here, I'll also add a comment saying that I'll pass this ticket along to the SysAdmin Department. The scenario is that I'm an entry level Help Desk technician, therefore would not be able to solve this issue and will forward it along to the correct department.
 </p>
+
+<p>
+  <img width="1869" height="1037" alt="ticket-comments-updated-after-every-change-made" src="https://github.com/user-attachments/assets/6aa502db-85e0-4251-955f-2bfbe0c18f1e" />
+
+</p>
+
+<p>
+  It's worth noting that, for every change that's made to the ticket and every comment that's made, it's all there to see on the ticket and everyone who is tied to this ticket gets notifications as well.
+</p>
 <br />
