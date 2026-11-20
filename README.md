@@ -40,10 +40,11 @@ First thing, I created a Windows 11 virtual machine in Microsoft Azure. I'll nee
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1912" height="1080" alt="remotedesktop-loginscreen" src="https://github.com/user-attachments/assets/d573cbe3-5416-4bcc-a0e9-7945908bcba9" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The software I'm using on my laptop is Garuda Linux. Here you can see I'm using Remmina, a Remote Desktop Protocol application, one of the main options for using RDP on Linux. All I need is to punch in the public IP address of the virtual machine, username,and password in the correct fields. From here I'll connect to the Windows 11 virtual machine by pressing the connect button.
 </p>
 <br />
 
