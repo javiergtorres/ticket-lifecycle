@@ -20,13 +20,9 @@ This tutorial outlines a ticket lifecycle from creation to completion on the tic
 - Windows 11
 - Garuda Linux</b> 
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2> Objective</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Create a couple of tickets using the User portal inside osTicket as an End User (I’ll pretend to be an End User with a problem).After the ticket is created I’ll login as a Help Desk technician (IT person). I’ll observe the ticket, triage it, then work it to completion.
 
 <h2> Steps</h2>
 
