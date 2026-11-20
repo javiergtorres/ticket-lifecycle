@@ -28,7 +28,7 @@ This tutorial outlines a ticket lifecycle from creation to completion on the tic
 - Item 4
 - Item 5
 
-<h2>Configuration Steps</h2>
+<h2> Steps</h2>
 
 <p>
 <img width="1901" height="930" alt="gettingipaddressfrom-osticket-vm" src="https://github.com/user-attachments/assets/756917c3-13d3-4a5f-8eba-423c52387f46" />
